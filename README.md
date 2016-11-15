@@ -1,2 +1,3 @@
 # digikey网站信息爬取
-www.digikey.cn
+网址：www.digikey.cn  
+开发工具：PyCharm 2016.2  
