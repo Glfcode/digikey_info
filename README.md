@@ -1,2 +1,2 @@
-# digikey-
-www.digikey.cn网站信息爬取
+# digikey网站信息爬取
+www.digikey.cn
